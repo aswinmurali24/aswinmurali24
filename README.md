@@ -3,7 +3,8 @@
 - 🌱 I’m currently learning core concepts of data science and artificial intelligence
 - I'm Currently pursuing my MSc in Data Science and Artificial Intelligence at the University of Liverpool
 - My LinkedIn : [https://www.linkedin.com/in/aswin-murali24/]
-  My Email : [aswinmurali02@gmail.com]
+
+- My Email : [aswinmurali02@gmail.com]
 
 <!---
 aswinmurali24/aswinmurali24 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
