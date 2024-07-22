@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @aswinmurali24
 - 👀 I’m interested in data science, machine learning and artificial intelligence
-- 🌱 I’m currently learning core concepts of data science and artificial intelligence
+- 🌱 I’m currently learning the core concepts of data science and artificial intelligence
 - Looking out for opportunities in Data Science and Analytics
 - I'm Currently pursuing my MSc in Data Science and Artificial Intelligence at the University of Liverpool
 - My LinkedIn : [https://www.linkedin.com/in/aswin-murali24/]
