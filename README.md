@@ -2,7 +2,7 @@
 - 👀 I’m interested in data science, machine learning and artificial intelligence
 - 🌱 I’m currently learning the core concepts of data science and artificial intelligence
 - Looking out for opportunities in Data Science and Analytics
-- I'm Currently pursuing my MSc in Data Science and Artificial Intelligence at the University of Liverpool
+- A recent Post Graduate in Data Science and Artificial Intelligence at the University of Liverpool
 - My LinkedIn : [https://www.linkedin.com/in/aswin-murali24/]
 
 - My Email : [aswinmurali02@gmail.com]
